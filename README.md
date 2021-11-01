@@ -20,17 +20,3 @@ npm run build
 npm run lint
 ```
 ### TODO
-- [x] Add favicon
-- [ ] Add search suggestions
-- [ ] Add images
-- [x] Add sidebar with vue router
-- [x] Add civlization overview
-- [ ] Add civlization single
-- [x] Add unit overview
-    - [ ] Stats
-    - [ ] Categories (infantry, cavalary, siege, unique)
-- [ ] Add unit single
-- [ ] Add structures overview
-- [ ] Add structures single
-- [ ] Add technology overview
-- [ ] Add technology single
