@@ -1,4 +1,4 @@
-# Age of Empires 2 civilizations and technology app
+# World of Tanks application
 
 ## Project setup
 ```
